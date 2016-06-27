@@ -1,10 +1,12 @@
 # WebRTC Test
 Basic example video chat site utilizing two WebRTC projects
-signalmaster: [url]https://github.com/andyet/signalmaster[/url]
-SimpleWebRTC: [url]https://github.com/andyet/SimpleWebRTC[/url]
+signalmaster: (https://github.com/andyet/signalmaster)
+SimpleWebRTC: (https://github.com/andyet/SimpleWebRTC)
 
 Tested with Chrome 
 
 Note: Docker container will need an Nginx reverse proxy configured for HTTPS
 
-Tested with coturn for TURN: [url]https://github.com/coturn/coturn[/url]
+Tested with coturn for TURN: (https://github.com/coturn/coturn)
+
+Presented to [EV-LUG](https://github.com/EV-LUG) on 6/21/16
